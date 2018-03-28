@@ -28,7 +28,7 @@ lab 4:使用VLC播放本地端影片開啟網路串流播放
 
 # ffmpeg
 lab 1:安裝ffmpeg
-下載ffmpeg::https://www.ffmpeg.org/download.html#build-windows
+https://www.ffmpeg.org/download.html#build-windows
 
 lab 2:認識ffmpeg
 https://lnpcd.blogspot.tw/2012/09/ffmpeg.html
