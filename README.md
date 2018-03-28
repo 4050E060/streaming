@@ -11,5 +11,6 @@ http://www.onirikal.com/videos/mp4/assembly_line.mp4
 
 lab 3:使用VLC開啟網路串流並轉檔
 
-
 lab 4:使用VLC播放本地端影片開啟網路串流播放
+
+簡報:0328.pptx
